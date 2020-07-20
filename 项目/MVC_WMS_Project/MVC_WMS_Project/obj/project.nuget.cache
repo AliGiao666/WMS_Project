@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "AShwmUHJrp/dp0pih1mKV9LW4eOSNv9WzS0h7xMdfMG82nyhiMjRl38WTXgmPOep8t+GEtxlef5+g+qRFl+Isg==",
   "success": true,
   "projectFilePath": "E:\\桌面\\WMS项目\\WMS_Project\\WMS_Project\\项目\\MVC_WMS_Project\\MVC_WMS_Project\\MVC_WMS_Project.csproj",
@@ -112,5 +113,11 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "JuizEhvljKsum9n04pWiyYnzNqc+tZDkdNIB2GJpx5PI0Sq3amx3xhTjugxPl4tvZA4ovMum/Lw/XTQJdeL6YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\MVC_WMS_Project\\MVC_WMS_Project\\MVC_WMS_Project.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> master
   "logs": []
 }
