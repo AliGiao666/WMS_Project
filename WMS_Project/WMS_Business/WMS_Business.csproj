@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Nick_Business\" />
+    <Folder Include="Ryan_Business\" />
+    <Folder Include="Colin_Business\" />
+    <Folder Include="Hanna_Buniness\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.35" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WMS_DataAccess\WMS_DataAccess.csproj" />
+    <ProjectReference Include="..\WMS_Models\WMS_Models.csproj" />
+  </ItemGroup>
+
+</Project>

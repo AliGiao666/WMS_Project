@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\Ryan_Controllers\" />
+    <Folder Include="Controllers\Hanna_Controllers\" />
+    <Folder Include="Controllers\Nick_Controllers\" />
+    <Folder Include="Controllers\Colin_Controllers\" />
+  </ItemGroup>
+
+</Project>

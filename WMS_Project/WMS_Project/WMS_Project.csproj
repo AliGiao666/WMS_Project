@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.35" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WMS_Business\WMS_Business.csproj" />
+    <ProjectReference Include="..\WMS_Models\WMS_Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\Ryan_Controllers\" />
+    <Folder Include="Controllers\Nick_Controllers\" />
+    <Folder Include="Controllers\Colin_Controllers\" />
+    <Folder Include="Controllers\Hanna_Controllers\" />
+  </ItemGroup>
+
+
+</Project>
