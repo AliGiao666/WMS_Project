@@ -24,6 +24,7 @@ namespace WMS_Project
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(option => option.AddPolicy("mycors", p => p.AllowAnyOrigin()));
             services.AddControllers();
         }
 
@@ -34,7 +35,7 @@ namespace WMS_Project
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.UseCors("mycors");
             app.UseRouting();
 
             app.UseAuthorization();
