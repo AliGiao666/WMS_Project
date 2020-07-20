@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\周涵\\Desktop\\MVC_WMS_Project\\MVC_WMS_Project\\MVC_WMS_Project.csproj": {}
+    "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\MVC_WMS_Project\\MVC_WMS_Project\\MVC_WMS_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\周涵\\Desktop\\MVC_WMS_Project\\MVC_WMS_Project\\MVC_WMS_Project.csproj": {
+    "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\MVC_WMS_Project\\MVC_WMS_Project\\MVC_WMS_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\周涵\\Desktop\\MVC_WMS_Project\\MVC_WMS_Project\\MVC_WMS_Project.csproj",
+        "projectUniqueName": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\MVC_WMS_Project\\MVC_WMS_Project\\MVC_WMS_Project.csproj",
         "projectName": "MVC_WMS_Project",
-        "projectPath": "C:\\Users\\周涵\\Desktop\\MVC_WMS_Project\\MVC_WMS_Project\\MVC_WMS_Project.csproj",
+        "projectPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\MVC_WMS_Project\\MVC_WMS_Project\\MVC_WMS_Project.csproj",
         "packagesPath": "C:\\Users\\周涵\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\周涵\\Desktop\\MVC_WMS_Project\\MVC_WMS_Project\\obj\\",
+        "outputPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\MVC_WMS_Project\\MVC_WMS_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\周涵\\AppData\\Roaming\\NuGet\\NuGet.Config",

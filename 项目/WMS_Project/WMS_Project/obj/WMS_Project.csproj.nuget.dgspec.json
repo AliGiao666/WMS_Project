@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Project\\WMS_Project.csproj": {}
+    "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Project\\WMS_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Business\\WMS_Business.csproj": {
+    "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Business\\WMS_Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Business\\WMS_Business.csproj",
+        "projectUniqueName": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Business\\WMS_Business.csproj",
         "projectName": "WMS_Business",
-        "projectPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Business\\WMS_Business.csproj",
+        "projectPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Business\\WMS_Business.csproj",
         "packagesPath": "C:\\Users\\周涵\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Business\\obj\\",
+        "outputPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\周涵\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_DataAccess\\WMS_DataAccess.csproj": {
-                "projectPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_DataAccess\\WMS_DataAccess.csproj"
+              "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_DataAccess\\WMS_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_DataAccess\\WMS_DataAccess.csproj"
               },
-              "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Models\\WMS_Models.csproj": {
-                "projectPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Models\\WMS_Models.csproj"
+              "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Models\\WMS_Models.csproj": {
+                "projectPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Models\\WMS_Models.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_DataAccess\\WMS_DataAccess.csproj": {
+    "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_DataAccess\\WMS_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_DataAccess\\WMS_DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_DataAccess\\WMS_DataAccess.csproj",
         "projectName": "WMS_DataAccess",
-        "projectPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_DataAccess\\WMS_DataAccess.csproj",
+        "projectPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_DataAccess\\WMS_DataAccess.csproj",
         "packagesPath": "C:\\Users\\周涵\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\周涵\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,8 +108,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Models\\WMS_Models.csproj": {
-                "projectPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Models\\WMS_Models.csproj"
+              "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Models\\WMS_Models.csproj": {
+                "projectPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Models\\WMS_Models.csproj"
               }
             }
           }
@@ -159,14 +159,14 @@
         }
       }
     },
-    "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Models\\WMS_Models.csproj": {
+    "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Models\\WMS_Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Models\\WMS_Models.csproj",
+        "projectUniqueName": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Models\\WMS_Models.csproj",
         "projectName": "WMS_Models",
-        "projectPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Models\\WMS_Models.csproj",
+        "projectPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Models\\WMS_Models.csproj",
         "packagesPath": "C:\\Users\\周涵\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Models\\obj\\",
+        "outputPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\周涵\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -231,14 +231,14 @@
         }
       }
     },
-    "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Project\\WMS_Project.csproj": {
+    "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Project\\WMS_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Project\\WMS_Project.csproj",
+        "projectUniqueName": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Project\\WMS_Project.csproj",
         "projectName": "WMS_Project",
-        "projectPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Project\\WMS_Project.csproj",
+        "projectPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Project\\WMS_Project.csproj",
         "packagesPath": "C:\\Users\\周涵\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Project\\obj\\",
+        "outputPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\周涵\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -256,11 +256,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Business\\WMS_Business.csproj": {
-                "projectPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Business\\WMS_Business.csproj"
+              "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Business\\WMS_Business.csproj": {
+                "projectPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Business\\WMS_Business.csproj"
               },
-              "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Models\\WMS_Models.csproj": {
-                "projectPath": "C:\\Users\\周涵\\Desktop\\WMS_Project\\WMS_Models\\WMS_Models.csproj"
+              "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Models\\WMS_Models.csproj": {
+                "projectPath": "C:\\Users\\周涵\\Desktop\\66\\WMS_Project\\项目\\WMS_Project\\WMS_Models\\WMS_Models.csproj"
               }
             }
           }
