@@ -10,3 +10,14 @@ C:\Users\周涵\Desktop\WMS_Project\WMS_DataAccess\bin\Debug\netcoreapp3.1\WMS_M
 C:\Users\周涵\Desktop\WMS_Project\WMS_DataAccess\bin\Debug\netcoreapp3.1\WMS_Models.pdb
 C:\Users\周涵\Desktop\WMS_Project\WMS_DataAccess\obj\Debug\netcoreapp3.1\WMS_DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\周涵\Desktop\WMS_Project\WMS_DataAccess\obj\Debug\netcoreapp3.1\WMS_DataAccess.csproj.CopyComplete
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_DataAccess\bin\Debug\netcoreapp3.1\WMS_DataAccess.deps.json
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_DataAccess\bin\Debug\netcoreapp3.1\WMS_DataAccess.dll
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_DataAccess\bin\Debug\netcoreapp3.1\WMS_DataAccess.pdb
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_DataAccess\bin\Debug\netcoreapp3.1\WMS_Models.dll
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_DataAccess\bin\Debug\netcoreapp3.1\WMS_Models.pdb
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_DataAccess\obj\Debug\netcoreapp3.1\WMS_DataAccess.csprojAssemblyReference.cache
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_DataAccess\obj\Debug\netcoreapp3.1\WMS_DataAccess.AssemblyInfoInputs.cache
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_DataAccess\obj\Debug\netcoreapp3.1\WMS_DataAccess.AssemblyInfo.cs
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_DataAccess\obj\Debug\netcoreapp3.1\WMS_DataAccess.csproj.CopyComplete
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_DataAccess\obj\Debug\netcoreapp3.1\WMS_DataAccess.dll
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_DataAccess\obj\Debug\netcoreapp3.1\WMS_DataAccess.pdb

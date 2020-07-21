@@ -6,3 +6,11 @@ C:\Users\周涵\Desktop\WMS_Project\WMS_Models\obj\Debug\netcoreapp3.1\WMS_Model
 C:\Users\周涵\Desktop\WMS_Project\WMS_Models\obj\Debug\netcoreapp3.1\WMS_Models.dll
 C:\Users\周涵\Desktop\WMS_Project\WMS_Models\obj\Debug\netcoreapp3.1\WMS_Models.pdb
 C:\Users\周涵\Desktop\WMS_Project\WMS_Models\obj\Debug\netcoreapp3.1\WMS_Models.csproj.CoreCompileInputs.cache
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Models\bin\Debug\netcoreapp3.1\WMS_Models.deps.json
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Models\bin\Debug\netcoreapp3.1\WMS_Models.dll
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Models\bin\Debug\netcoreapp3.1\WMS_Models.pdb
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Models\obj\Debug\netcoreapp3.1\WMS_Models.AssemblyInfoInputs.cache
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Models\obj\Debug\netcoreapp3.1\WMS_Models.AssemblyInfo.cs
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Models\obj\Debug\netcoreapp3.1\WMS_Models.csproj.CoreCompileInputs.cache
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Models\obj\Debug\netcoreapp3.1\WMS_Models.dll
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Models\obj\Debug\netcoreapp3.1\WMS_Models.pdb

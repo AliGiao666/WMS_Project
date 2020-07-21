@@ -12,3 +12,17 @@ C:\Users\周涵\Desktop\WMS_Project\WMS_Business\bin\Debug\netcoreapp3.1\WMS_Dat
 C:\Users\周涵\Desktop\WMS_Project\WMS_Business\bin\Debug\netcoreapp3.1\WMS_Models.pdb
 C:\Users\周涵\Desktop\WMS_Project\WMS_Business\obj\Debug\netcoreapp3.1\WMS_Business.csproj.CoreCompileInputs.cache
 C:\Users\周涵\Desktop\WMS_Project\WMS_Business\obj\Debug\netcoreapp3.1\WMS_Business.csproj.CopyComplete
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\bin\Debug\netcoreapp3.1\WMS_Business.deps.json
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\bin\Debug\netcoreapp3.1\WMS_Business.dll
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\bin\Debug\netcoreapp3.1\WMS_Business.pdb
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\bin\Debug\netcoreapp3.1\WMS_DataAccess.dll
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\bin\Debug\netcoreapp3.1\WMS_Models.dll
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\bin\Debug\netcoreapp3.1\WMS_DataAccess.pdb
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\bin\Debug\netcoreapp3.1\WMS_Models.pdb
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\obj\Debug\netcoreapp3.1\WMS_Business.csprojAssemblyReference.cache
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\obj\Debug\netcoreapp3.1\WMS_Business.AssemblyInfoInputs.cache
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\obj\Debug\netcoreapp3.1\WMS_Business.AssemblyInfo.cs
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\obj\Debug\netcoreapp3.1\WMS_Business.csproj.CoreCompileInputs.cache
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\obj\Debug\netcoreapp3.1\WMS_Business.csproj.CopyComplete
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\obj\Debug\netcoreapp3.1\WMS_Business.dll
+C:\Users\周涵\Desktop\项目\WMS_Project\项目\WMS_Project\WMS_Business\obj\Debug\netcoreapp3.1\WMS_Business.pdb

@@ -26,6 +26,7 @@ namespace WMS_Project
         {
             services.AddCors(option => option.AddPolicy("mycors", p => p.AllowAnyOrigin()));
             services.AddControllers();
+            services.AddSingleton<WMS_Business.Hanna_Buniness.IBLL,WMS_Business.Hanna_Buniness.Business>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
